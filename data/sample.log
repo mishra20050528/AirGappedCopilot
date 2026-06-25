@@ -1,0 +1,3 @@
+CPU = 20
+Latency = 40
+PacketLoss = 0

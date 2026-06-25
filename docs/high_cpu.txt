@@ -1,0 +1,9 @@
+Issue: High CPU Utilization
+
+Cause:
+Router overload due to excessive traffic.
+
+Recommended Action:
+1. Check traffic spikes.
+2. Reroute traffic.
+3. Upgrade resources if required.

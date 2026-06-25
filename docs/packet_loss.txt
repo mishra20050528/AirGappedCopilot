@@ -1,0 +1,9 @@
+Issue: Packet Loss
+
+Cause:
+Congestion, faulty links, or hardware issues.
+
+Recommended Action:
+1. Inspect interfaces.
+2. Check cable and link health.
+3. Reduce congestion.

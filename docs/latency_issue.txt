@@ -1,0 +1,9 @@
+Issue: High Network Latency
+
+Cause:
+Network congestion or overloaded links.
+
+Recommended Action:
+1. Check link utilization.
+2. Verify routing paths.
+3. Shift traffic to backup path.
